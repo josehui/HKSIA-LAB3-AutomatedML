@@ -1,4 +1,4 @@
-# MLADS 2020 LAB: Building a machine learning model using Automated Machine Learning in Azure ML
+# LAB 3: Building a machine learning model using Automated Machine Learning in Azure ML
 The content below is a guide for a self-paced lab to understand the E2E Automated Machine Learning capabilities both through the Python code experience and UI no-code experience. 
 
 While it's not required, a basic understanding of Azure Machine Learning will be helpful for understanding the solution. The following resources can help introduce you to AML:
